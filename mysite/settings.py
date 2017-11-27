@@ -25,7 +25,7 @@ SECRET_KEY = '#_fpd%=$s71cjtss151++(uq0e8#m97&qvhikko1*r$))6jnjn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','vitaliy.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
